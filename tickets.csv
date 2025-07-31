@@ -1,0 +1,4 @@
+ID,Título,Descrição,Status
+001,Erro ao logar,Usuario nao consegue acessar o saberto,aberto
+002,Acesso ao Lambda,Usuario precisa de acesso ao lambda para fazer modificacoes nos dados,aguardando aprovacao 
+003,Fazer conexao MySQL ao Grafana,"Usuario quer fazer conexao MySQL ao Grafana para registrar metricas, mas a conexao esta falhando",em Andamento

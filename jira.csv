@@ -1,0 +1,4 @@
+ID,Título,Descrição,Status
+004,Erro 502,Usuario disse que esta enfrentando queda no sistema,resolvido
+005,Quebra no deploy,"Usuario relata que esta tento quebra no deploy, as atualizacoes nao estao sendo buscadas",em andamento
+006,Acesso ao CloudFront,Usuario precisa do acesso ao clodfront para proseguir com as corretivas ,resolvido
